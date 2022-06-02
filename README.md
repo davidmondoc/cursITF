@@ -1,1 +1,2 @@
-# cursITF
+# CursITF
+Curs IT FACTORY
